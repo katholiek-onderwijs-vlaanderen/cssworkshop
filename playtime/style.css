@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'BebasBook';
+    src: url('fonts/bebasneue_book-webfont.eot');
+    src: url('fonts/bebasneue_book-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/bebasneue_book-webfont.woff2') format('woff2'),
+    url('fonts/bebasneue_book-webfont.woff') format('woff'),
+    url('fonts/bebasneue_book-webfont.ttf') format('truetype'),
+    url('fonts/bebasneue_book-webfont.svg#bebas_neuebook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family: "BebasBook", Helvetica, Arial, sans-serif !important;
+    background-color: #303945;
+    margin:0px;
+    color: #FFFFFF;
+}
+
+section{
+    margin: 0px auto;
+    width: 1170px;
+}
+
+#nav-inner{
+    margin: 0px auto;
+    width: 1170px;
+}
+
+
+#logo{
+    background-image: url("logo_zill.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
