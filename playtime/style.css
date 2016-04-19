@@ -13,22 +13,21 @@
 body{
     font-family: "BebasBook", Helvetica, Arial, sans-serif !important;
     background-color: #303945;
-    margin:0px;
+    margin: 0;
     color: #FFFFFF;
 }
 
 #container{
-    margin: 0px auto;
+    margin: 0 auto;
     width: 1170px;
 }
 
 #nav-inner{
-    margin: 0px auto;
+    margin: 0 auto;
     width: 1170px;
 }
 
 #logo{
-    background-image: url("logo_zill.png");
+    background: url("logo_zill.png") no-repeat;
     background-size: contain;
-    background-repeat: no-repeat;
 }
